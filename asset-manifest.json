@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blackjacktrainer/static/css/main.7cb54b1a.css",
-    "main.js": "/blackjacktrainer/static/js/main.8259a84e.js",
+    "main.js": "/blackjacktrainer/static/js/main.00b1d87d.js",
     "index.html": "/blackjacktrainer/index.html",
     "main.7cb54b1a.css.map": "/blackjacktrainer/static/css/main.7cb54b1a.css.map",
-    "main.8259a84e.js.map": "/blackjacktrainer/static/js/main.8259a84e.js.map"
+    "main.00b1d87d.js.map": "/blackjacktrainer/static/js/main.00b1d87d.js.map"
   },
   "entrypoints": [
     "static/css/main.7cb54b1a.css",
-    "static/js/main.8259a84e.js"
+    "static/js/main.00b1d87d.js"
   ]
 }
