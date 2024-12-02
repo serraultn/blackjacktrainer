@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/http//serraultn.github.io/blackjacktrainer/static/css/main.7cb54b1a.css",
-    "main.js": "/http//serraultn.github.io/blackjacktrainer/static/js/main.8259a84e.js",
-    "index.html": "/http//serraultn.github.io/blackjacktrainer/index.html",
-    "main.7cb54b1a.css.map": "/http//serraultn.github.io/blackjacktrainer/static/css/main.7cb54b1a.css.map",
-    "main.8259a84e.js.map": "/http//serraultn.github.io/blackjacktrainer/static/js/main.8259a84e.js.map"
+    "main.css": "/blackjacktrainer/static/css/main.7cb54b1a.css",
+    "main.js": "/blackjacktrainer/static/js/main.8259a84e.js",
+    "index.html": "/blackjacktrainer/index.html",
+    "main.7cb54b1a.css.map": "/blackjacktrainer/static/css/main.7cb54b1a.css.map",
+    "main.8259a84e.js.map": "/blackjacktrainer/static/js/main.8259a84e.js.map"
   },
   "entrypoints": [
     "static/css/main.7cb54b1a.css",
