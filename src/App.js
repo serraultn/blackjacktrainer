@@ -1,12 +1,13 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Game from './components/Game';
 import StrategyChart from './components/StrategyChart';
 import Header from './components/Header';
+import './App.css'; // Optional: if you have App.css for styling
 
 function App() {
     return (
-        <Router>
+        <Router basename="/blackjacktrainer">
             <Header />
             <Routes>
                 <Route path="/" element={<Game />} />
