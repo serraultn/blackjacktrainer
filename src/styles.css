@@ -54,7 +54,20 @@ body {
     margin-top: 20px;
 }
 
+embed, iframe {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
 .strategy-chart {
-    padding: 20px;
     text-align: center;
+    padding: 20px;
+}
+
+.strategy-chart img {
+    display: block;
+    margin: 0 auto 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
 }
